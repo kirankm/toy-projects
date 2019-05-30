@@ -1,1 +1,1 @@
-List of random small projects
+List of random small projects for practise
